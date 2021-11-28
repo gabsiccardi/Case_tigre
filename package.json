@@ -4,7 +4,6 @@
   "description": "Case para o processo seletivo de estagio da TIGRE",
   "main": "index.js",
   "scripts": {
-    "start": "script.js",
     "test": "test"
   },
   "repository": {
