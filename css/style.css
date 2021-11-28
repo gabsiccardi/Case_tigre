@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+
+.header_menu{
+    background: #0f4478;
+    height:120px;
+    width: 100%;
+}
+
+
+.logo {
+    color: white;
+    font-size: 40px;
+    line-height: 60px;
+
+    
+}
+
+.sub {
+    color: black;
+    font-size: 16px;
+    line-height: 80px;
+}
+
+body {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    min-height: 100vh;
+
+}
+
+
+#clicks {
+    margin-top: 100px;
+}
+
+.botao {
+    align-items: center;
+    margin-top: 50px;
+    padding: 5px 5px 5px 5px;
+}
