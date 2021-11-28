@@ -1,0 +1,22 @@
+{
+  "name": "case_tigre",
+  "version": "1.0.0",
+  "description": "Case para o processo seletivo de estagio da TIGRE",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabsiccardi/Case_tigre.git"
+  },
+  "keywords": [
+    "estagio"
+  ],
+  "author": "Gabriel Siccardi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabsiccardi/Case_tigre/issues"
+  },
+  "homepage": "https://github.com/gabsiccardi/Case_tigre#readme"
+}
